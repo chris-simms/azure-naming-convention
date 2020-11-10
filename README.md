@@ -1,4 +1,4 @@
-# Azure Naming Convention
+# Cloud Naming Convention
 
 | #   | Tag Key       | Required? | Description                                                | Example Value(s)             |
 | :-- | :------------ | :-------- | :--------------------------------------------------------- | :--------------------------- |
